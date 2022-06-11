@@ -50,28 +50,34 @@ $ pkg upgrade && pkg update -y
 $ pkg install git python -y
 $ pip3 install rich 
 $ pip3 install requests
-$ git clone 
-$ cd brusk-ne-vida
+$ git clone https://github.com/Thorkrz/Bursk-Painel
+$ cd Brusk-Painel
 $ python3 painel.py
 
 💻 Debian
 $ apt upgrade && apt update -y
 $ apt install git python -y
-$ git clone https://github.com/Kiny-Kiny/Kiny-Painel
-$ cd Kiny-Painel
-$ python3 main.py
+$ pip3 install rich 
+$ pip3 install requests
+$ git clone https://github.com/Thorkrz/Bursk-Painel
+$ cd Brusk-Painel
+$ python3 painel.py
 
 💻 Arch Linux
 $ pacman -Syyu git python -y
-$ git clone https://github.com/Kiny-Kiny/Kiny-Painel
-$ cd Kiny-Painel
-$ python3 main.py
+$ pip3 install rich 
+$ pip3 install requests
+$ git clone https://github.com/Thorkrz/Bursk-Painel
+$ cd Brusk-Painel
+$ python3 painel.py
 
 💻 OpenSUSE
 $ zypper install python git -y
-$ git clone https://github.com/Kiny-Kiny/Kiny-Painel
-$ cd Kiny-Painel
-$ python3 main.py
+$ pip3 install rich 
+$ pip3 install requests
+$ git clone https://github.com/Thorkrz/Bursk-Painel
+$ cd Brusk-Painel
+$ python3 painel.py
 ```
 
 <p align="center" >
