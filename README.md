@@ -50,7 +50,7 @@ $ pkg upgrade && pkg update -y
 $ pkg install git python -y
 $ pip install rich 
 $ pip install requests
-$ git clone https://github.com/Thorkrz/Bursk-Painel
+$ git clone https://github.com/Thorkrz/Brusk-Painel
 $ cd Brusk-Painel
 $ python3 painel.py
 
