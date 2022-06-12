@@ -48,8 +48,8 @@ Depois de baixar e instalar o python você pode baixar o **Brusk-Painel** direta
 💻 Termux
 $ pkg upgrade && pkg update -y
 $ pkg install git python -y
-$ pip3 install rich 
-$ pip3 install requests
+$ pip install rich 
+$ pip install requests
 $ git clone https://github.com/Thorkrz/Bursk-Painel
 $ cd Brusk-Painel
 $ python3 painel.py
@@ -57,24 +57,24 @@ $ python3 painel.py
 💻 Debian
 $ apt upgrade && apt update -y
 $ apt install git python -y
-$ pip3 install rich 
-$ pip3 install requests
+$ pip install rich 
+$ pip install requests
 $ git clone https://github.com/Thorkrz/Bursk-Painel
 $ cd Brusk-Painel
 $ python3 painel.py
 
 💻 Arch Linux
 $ pacman -Syyu git python -y
-$ pip3 install rich 
-$ pip3 install requests
+$ pip install rich 
+$ pip install requests
 $ git clone https://github.com/Thorkrz/Bursk-Painel
 $ cd Brusk-Painel
 $ python3 painel.py
 
 💻 OpenSUSE
 $ zypper install python git -y
-$ pip3 install rich 
-$ pip3 install requests
+$ pip install rich 
+$ pip install requests
 $ git clone https://github.com/Thorkrz/Bursk-Painel
 $ cd Brusk-Painel
 $ python3 painel.py
