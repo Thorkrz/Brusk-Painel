@@ -94,6 +94,6 @@ $ python3 painel.py
 | Autor          | Ajuda                                                                  |
 | -------------- |:-------------:                                                         |
 | Thor_kryp      | Back-end, Api's                                                        |
-| P0isonBR       |  Desing, Api's                                                         |
+| Ocean_romanov  |  Desing, Api's                                                         |
 
 
