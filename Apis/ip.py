@@ -36,4 +36,3 @@ def ip(IP):
         print (all)  
    except: 
            print ('IP Inválido')
-#ip("170.245.79.18")
